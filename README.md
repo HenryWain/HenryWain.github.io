@@ -1,2 +1,2 @@
-# PoliticianWebsite
-A personal website for a fictitious politician. This is the cumulative assignment of CISC-282 from Queen's University.
+# Henry Wain Website
+Henry Wain's Website, source for the theme is linked on the site.
